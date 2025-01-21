@@ -1,5 +1,5 @@
-Yoo everyone, welcome to my git guide!
-
+Welcomme to git
 Yo, Johnny here
+this is coming from dev-on
+I-m adding this feature branch
 
-Im adding this from dev-allan
