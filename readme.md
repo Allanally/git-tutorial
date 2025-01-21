@@ -1,2 +1,5 @@
-Git tutorial
-I-m adding this feature branch
+Yoo everyone, welcome to my git guide!
+
+Yo, Johnny here
+
+Im adding this from dev-allan
